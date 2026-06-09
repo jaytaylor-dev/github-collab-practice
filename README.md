@@ -1,0 +1,1 @@
+Just a readme to show that don't have to make it in the commmand line as suggested by the default from the github site.
