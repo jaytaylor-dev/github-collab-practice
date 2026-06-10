@@ -7,6 +7,7 @@ topic = "Ai Ethics"
 notes = [
 
     #inside of the notes each group memeber will submite their ai opinion.
+    # My opinion is the opposite of Michael's
 ]
 
 # A way to check all the notes created
