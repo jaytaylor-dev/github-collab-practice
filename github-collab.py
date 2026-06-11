@@ -15,5 +15,8 @@ notes = [
 
 # A way to check all the notes created
 
+def testStuff(name, opinion):
+    print(f'{name}: {opinion}')
+    
 for note in notes:
     print(note)
