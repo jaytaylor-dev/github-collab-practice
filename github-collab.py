@@ -13,6 +13,8 @@ notes = [
     # My opinion is the opposite of Michael's
 ]
 
+# Something added for pr's sake
+
 # A way to check all the notes created
 
 def testStuff(name, opinion):
